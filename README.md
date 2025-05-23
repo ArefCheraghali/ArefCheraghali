@@ -33,10 +33,10 @@ Hello! I’m **Aref**, a dedicated front-end developer with a strong foundation 
 
 ---
 
-## 📈 GitHub Stats
+*/## 📈 GitHub Stats
 
 ![Aref's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArefCheraghali&show_icons=true&theme=dark)
-
+/*
 ---
 
 ## 📫 Get In Touch
