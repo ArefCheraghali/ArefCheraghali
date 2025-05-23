@@ -1,7 +1,7 @@
 # Aref Cheraghali
 **Aspiring Master's Student in AI | Front-End Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aref_Cheraghali-blue)](https://www.linkedin.com/in/aref-cheraghali) [![Gmail](https://img.shields.io/badge/Email-aref.cheraghali%40gmail.com-red)](mailto:aref.cheraghali@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/ArefCheraghali?label=Follow)](https://github.com/ArefCheraghali?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aref_Cheraghali-blue)](https://www.linkedin.com/in/aref1999) [![Email](https://img.shields.io/badge/Email-arefcheraghali%40yahoo.com-red)](mailto:arefcheraghali@yahoo.com) [![GitHub followers](https://img.shields.io/github/followers/ArefCheraghali?label=Follow)](https://github.com/ArefCheraghali?tab=followers)
 
 ---
 
@@ -33,17 +33,10 @@ Hello! I’m **Aref**, a dedicated front-end developer with a strong foundation 
 
 ---
 
-*/## 📈 GitHub Stats
-
-![Aref's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArefCheraghali&show_icons=true&theme=dark)
-/*
----
-
 ## 📫 Get In Touch
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aref-cheraghali)
-- 📧 aref.cheraghali@gmail.com
-- 🌐 [Portfolio (coming soon)](https://aref-portfolio.dev)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aref1999)
+- 📧 arefcheraghali@yahoo.com
 
 ---
 
