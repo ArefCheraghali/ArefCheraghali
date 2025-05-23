@@ -11,14 +11,13 @@ Hello! I’m **Aref**, a dedicated front-end developer with a strong foundation 
 
 - 🎓 **Education**: B.Sc. in Computer Engineering, University of Tehran (2021)
 - 💼 **Current Role**: Junior React Developer & AI Enthusiast
-- 🌍 **Goal**: Master’s in AI in Germany / Australia
-- 🗣️ **Languages**: English (Fluent), Persian (Native), German (B2)
+- 🗣️ **Languages**: English (Fluent), Persian (Native), German (B1)
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<code>JavaScript</code> <code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>Node.js</code> <code>Python</code> <code>Git</code> <code>MATLAB</code> <code>C</code> <code>C++</code> <code>TensorFlow</code> <code>Scikit-learn</code>
+<code>JavaScript</code> <code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>Node.js</code> <code>Python</code> <code>Git</code> <code>C</code> <code>C++</code> <code>TensorFlow</code> <code>Scikit-learn</code>
 
 ---
 
