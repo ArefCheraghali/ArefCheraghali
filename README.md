@@ -28,7 +28,7 @@ Hello! I’m **Aref**, a dedicated front-end developer with a strong foundation 
 | **MajorAssist** | AI-driven course selection assistant that uses NLP to recommend university majors. | [Repo](https://github.com/ArefCheraghali/MajorAssist) |
 | **AdaBoost** | Implementation of AdaBoost ensemble for binary classification with visualization of learning curves. | [Repo](https://github.com/ArefCheraghali/AdaBoost) |
 | **skin-disorder-diagnosis** | CNN-based model to classify common skin disorders from images; includes dataset preprocessing scripts. | [Repo](https://github.com/ArefCheraghali/skin-disorder-diagnosis) |
-| **Matna-Micro-Front** | Worked on an Infrastructure for a huge React project.  | [Repo](https://github.com/ArefCheraghali/Matna-Micro-Front)) |
+| **Tavana-Micro-Front** | Worked on an Infrastructure for a huge React project.  | [Repo](https://github.com/ArefCheraghali/Tavana-Micro-Front)) |
 
 ---
 
